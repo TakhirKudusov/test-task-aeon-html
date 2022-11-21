@@ -2,7 +2,11 @@
   "name": "test-task-aeon-html",
   "version": "0.0.1",
   "description": "",
-  "keywords": ["test", "html", "test-task"],
+  "keywords": [
+    "test",
+    "html",
+    "test-task"
+  ],
   "license": "MIT",
   "author": "Takhir Kudusov",
   "scripts": {
